@@ -1,4 +1,1 @@
-
-
-
-
+const erase = document.querySelector("#erase");
